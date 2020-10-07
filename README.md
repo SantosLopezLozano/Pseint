@@ -1,2 +1,2 @@
-asfasdfasdfadsfasdsdfas# pseudocode-exercises-pseint
-Practice PSeindfgsdfgsdsadfasdfasft asdfasdfasdfexercises. Prog 1ºDAM.dsfgsdfgasdfdfasfasdf.w............................................................................................wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwuu.w.w.w.w
+pseudocode-exercises-pseint
+Practice PSeint exercises. Prog 1ºDAM.
